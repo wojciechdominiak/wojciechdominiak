@@ -12,15 +12,16 @@ Current tech stack
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
 |**HTML5**                         | ![done][done]     | ![done][done]          | ![done][done]    |
 |**CSS3**                          | ![done][done]     | ![done][done]          | ![done][done]    |
-|**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |
-|**ES6**                           | ![done][done]     | ![done][done]          |                  |
 |**CSS Grid**                      | ![done][done]     |                        |                  |
 |**CSS Flex**                      | ![done][done]     |                        |                  |
+|**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |
+|**ES6**                           | ![done][done]     | ![done][done]          |                  |
 |**Sass**                          | ![done][done]     | ![done][done]          |                  |
 |**Responsive Web**                | ![done][done]     | ![done][done]          |                  |
-|**NPM**                           | ![done][done]     | ![done][done]          |                  |
-|**React**                         | ![done][done]     |                        |                  |
 |**Mobile First**                  | ![done][done]     |                        |                  |
-|**Python**                        | ![done][done]     |                        |                  |
+|**NPM**                           | ![done][done]     | ![done][done]          |                  |
+|**Webpack**                       | ![done][done]     | ![done][done]          |                  |
+|**React**                         | ![done][done]     |                        |                  |
 |**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**GitHub**                        | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Python**                        | ![done][done]     |                        |                  |
