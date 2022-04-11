@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @wojciechdominiak
+- 👋 Hi, I’m Wojciech Dominiak
 - 👀 I’m interested in modern frontend development
-- 🌱 I’m currently learning HTML5, CSS3 & Vanilla JS
-- 💞️ I’m not looking to collaborate yet
-- 📫 How to reach me ... maybe later.
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate
+- 📫 How to reach me mail: wojciech.dominiak.96@gmail.com
 
-## Current tech stack
+Current tech stack
 
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 
