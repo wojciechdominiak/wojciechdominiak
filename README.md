@@ -16,6 +16,7 @@ Current tech stack
 |**CSS Flex**                      | ![done][done]     |                        |                  |
 |**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |
 |**ES6**                           | ![done][done]     | ![done][done]          |                  |
+|**BEM**                           | ![done][done]     |                        |
 |**Sass**                          | ![done][done]     | ![done][done]          |                  |
 |**Responsive Web**                | ![done][done]     | ![done][done]          |                  |
 |**Mobile First**                  | ![done][done]     |                        |                  |
