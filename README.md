@@ -22,7 +22,7 @@ Current tech stack
 |**Mobile First**                  | ![done][done]     |                        |                  |
 |**NPM**                           | ![done][done]     | ![done][done]          |                  |
 |**Webpack**                       | ![done][done]     | ![done][done]          |                  |
-|**React**                         | ![done][done]     |                        |                  |
+|**Vue**                           | ![done][done]     |                        |                  |
 |**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**GitHub**                        | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Python**                        | ![done][done]     |                        |                  |
