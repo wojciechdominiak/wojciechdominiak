@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wojciech Dominiak
 - 👀 I’m interested in modern frontend development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me mail: wojciech.dominiak.96@gmail.com
 
@@ -12,8 +12,8 @@ Current tech stack
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
 |**HTML5**                         | ![done][done]     | ![done][done]          | ![done][done]    |
 |**CSS3**                          | ![done][done]     | ![done][done]          | ![done][done]    |
-|**CSS Grid**                      | ![done][done]     |                        |                  |
-|**CSS Flex**                      | ![done][done]     |                        |                  |
+|**CSS Grid**                      | ![done][done]     | ![done][done]          |                  |
+|**CSS Flex**                      | ![done][done]     | ![done][done]          |                  |
 |**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |
 |**ES6**                           | ![done][done]     | ![done][done]          |                  |
 |**BEM**                           | ![done][done]     |                        |
