@@ -15,7 +15,7 @@ Current tech stack
 |**CSS Grid**                      | ![done][done]     | ![done][done]          | ![done][done]    |
 |**CSS Flex**                      | ![done][done]     | ![done][done]          | ![done][done]    |
 |**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |
-|**ES6**                           | ![done][done]     | ![done][done]          | ![done][done]    |
+|**ES6+**                          | ![done][done]     | ![done][done]          | ![done][done]    |
 |**BEM**                           | ![done][done]     | ![done][done]          |                  |
 |**Sass**                          | ![done][done]     | ![done][done]          |                  |
 |**Responsive Web**                | ![done][done]     | ![done][done]          | ![done][done]    |
