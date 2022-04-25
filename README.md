@@ -2,7 +2,7 @@
 - 👀 I’m interested in modern frontend development
 - 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate
-- 📫 Mail: wojciech.dominiak.96@gmail.com / https://wojciechdominiak.github.io/
+- 📫 wojciech.dominiak.96@gmail.com / https://wojciechdominiak.github.io/
 
 Current tech stack
 
