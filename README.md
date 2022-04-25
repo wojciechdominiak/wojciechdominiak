@@ -20,8 +20,8 @@ Current tech stack
 |**Sass**                          | ![done][done]     | ![done][done]          |                  |
 |**Responsive Web**                | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Mobile First**                  | ![done][done]     | ![done][done]          | ![done][done]    |
-|**NPM**                           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**NPM SCRIPTS**                   | ![done][done]     |                        |                  |
+|**npm**                           | ![done][done]     | ![done][done]          | ![done][done]    |
+|**npm scripts**                   | ![done][done]     |                        |                  |
 |**Webpack**                       | ![done][done]     |                        |                  |
 |**Vue.js**                        | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
