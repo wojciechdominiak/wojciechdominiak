@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Wojciech Dominiak I'm a 26 years old self taught frontend developer. I’ve been programming since high school. I’ve been learning modern frontend      development for one year. I 've gained knowledge of advanced math eg. logic, analysis or algebra during my studies.  I have been working creatively with        clients for two years. Now I’m looking for a commercial job as a programmer.
-- 👀 I’m interested in modern frontend development
+- 👋 Hi, I’m Wojciech Dominiak I'm a 26 years old self taught frontend developer. I’ve been programming since high school. I’ve been learning modern frontend        development for one year. I 've gained knowledge of advanced math eg. logic, analysis or algebra during my studies.  I have been working creatively with        clients for two years. Now I’m looking for a commercial job as a programmer.
+
 - 🌱 I’m currently learning Vue.js
-- 💞️ I’m looking to collaborate
+
 - 📫 wojciech.dominiak.96@gmail.com / https://wojciechdominiak.github.io/
 
 Current tech stack
