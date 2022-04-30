@@ -24,6 +24,7 @@ Current tech stack
 |**npm scripts**                   | ![done][done]     |                        |                  |
 |**Webpack**                       | ![done][done]     |                        |                  |
 |**Vue.js**                        | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Vue CLI**                        | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**GitHub**                        | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Python**                        | ![done][done]     |                        |                  |
