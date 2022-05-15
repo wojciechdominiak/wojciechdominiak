@@ -10,7 +10,8 @@
           looking for a commercial job as a programmer.
 - 🌱 I’m currently learning Vue.js 3.0 - Composition API
 
-- 📫 wojciech.dominiak.96@gmail.com / https://wojciechdominiak.github.io/
+- 📫 wojciech.dominiak.96@gmail.com 
+- https://wojciechdominiak.github.io/
 
 Current tech stack
 
