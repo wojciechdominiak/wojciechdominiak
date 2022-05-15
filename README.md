@@ -1,5 +1,13 @@
-- 👋 Hi, I’m Wojciech Dominiak I'm a 26 years old self taught frontend developer. I’ve been programming since high school. I’ve been learning modern frontend        development for one year. I've gained knowledge of advanced math eg. logic, analysis or algebra during my studies. I have been working creatively with customers for two years. Now I’m looking for a commercial job as a programmer.
-
+- 👋 Hello! My name is Wojciech and I'm M.Eng of mechanical engineering. My
+          interest in programming started back in 2012 in middle school. Since
+          then programming has been my hobby and I have also used it as an
+          engineer in my work. As my master thesis, I wrote a simple desktop
+          application in Python for commercial use. It taught me a lot. Now I
+          have decided to complete my knowledge. I've been learning modern
+          frontend development for about one year. I've gained knowledge of
+          advanced math e.g. logic, analysis or algebra during my studies. I
+          have been working creatively with clients for two years. Now I'm
+          looking for a commercial job as a programmer.
 - 🌱 I’m currently learning Vue.js 3.0 - Composition API
 
 - 📫 wojciech.dominiak.96@gmail.com / https://wojciechdominiak.github.io/
