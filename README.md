@@ -29,7 +29,7 @@ Current tech stack
 |**npm**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**npm scripts**                   | ![done][done]     |                        |                  |
 |**Webpack**                       | ![done][done]     |                        |                  |
-|**Vue.js**                        | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Vue.js 3.0**                    | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Vue CLI**                       | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Vue Router**                    | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Vuex 4.0**                      | ![done][done]     | ![done][done]          | ![done][done]    |
