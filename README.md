@@ -23,6 +23,7 @@ Current tech stack
 |**CSS3**                          | ![done][done]     | ![done][done]          | ![done][done]    |
 |**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |
 |**ES6+**                          | ![done][done]     | ![done][done]          | ![done][done]    |
+|**TypeScript**                    | ![done][done]     | ![done][done]          |                  |
 |**BEM**                           | ![done][done]     | ![done][done]          |                  |
 |**Sass**                          | ![done][done]     | ![done][done]          |                  |
 |**npm**                           | ![done][done]     | ![done][done]          | ![done][done]    |
@@ -31,7 +32,7 @@ Current tech stack
 |**Vue.js**                        | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Vue CLI**                       | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Vue Router**                    | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Vuex 4.0/Pinia**                | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Vuex 4.0**                      | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**GitHub**                        | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Python**                        | ![done][done]     |                        |                  |
