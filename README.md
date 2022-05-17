@@ -1,4 +1,12 @@
-- 👋 Hello! My name's Wojciech and I'm M.Eng of mechanical engineering. My interest in programming started back in 2012 in middle school. Since then programming has been my hobby and I’ve also used it as an engineer in my work. As my master thesis, I wrote a simple desktop application in Python for commercial use. Now I’ve decided to complete my knowledge. I've been learning modern frontend development for about one year. I've gained knowledge of advanced math e.g. logic, analysis or algebra during my studies. I’ve been working creatively with customers for two years. Now I'm looking for a commercial job as a programmer.
+- 👋 Hello! My name's Wojciech and I'm M.Eng of mechanical engineering. My interest in programming started back in 2012 in middle school. Since then
+programming has been my hobby and I’ve also used it as an engineer in my work. As
+my master thesis, I wrote a simple desktop application in Python for commercial
+use. Now I’ve decided to expand my knowledge. I've been learning modern
+frontend development for about one year. I've gained knowledge of advanced math
+e.g. logic, analysis or algebra during my studies. I’ve been working creatively with
+customers for two years. Currently I'm looking for a commercial job as a
+programmer.
+
 - 🌱 I’m currently learning Vue.js 3.0 - Composition API
 
 - 📫 wojciech.dominiak.96@gmail.com 
