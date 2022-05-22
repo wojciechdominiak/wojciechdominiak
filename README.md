@@ -7,7 +7,7 @@ e.g. logic, analysis or algebra during my studies. I’ve been working creativel
 customers for two years. Currently I'm looking for a commercial job as a
 programmer.
 
-- 🌱 I’m currently learning Vue.js 3.0 - Composition API
+- 🌱 I’m currently learning: TypeScript
 
 - 📫 wojciech.dominiak.96@gmail.com 
 - https://wojciechdominiak.github.io/
