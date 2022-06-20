@@ -27,11 +27,13 @@ Current tech stack
 |**Sass**                          | ![done][done]     | ![done][done]          |                  |
 |**npm**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**npm scripts**                   | ![done][done]     |                        |                  |
-|**Webpack**                       | ![done][done]     |                        |                  |
+|**Webpack**                       | ![done][done]     | ![done][done]          |                  |
+|**Vite**                          | ![done][done]     | ![done][done]          |                  |
 |**Vue.js 3.0**                    | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Vue CLI**                       | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Vue Router**                    | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Vuex 4.0**                      | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Pinia/Vuex 4.0**                | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**GitHub**                        | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Gitflow**                       | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Python**                        | ![done][done]     | ![done][done]          |                  |
