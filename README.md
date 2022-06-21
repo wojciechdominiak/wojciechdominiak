@@ -7,7 +7,7 @@ e.g. logic, analysis or algebra during my studies. I’ve been working creativel
 customers for two years. Currently I'm looking for a commercial job as a
 programmer.
 
-- 🌱 I’m currently learning: TypeScript
+- 🌱 I’m currently learning: React.js
 
 - 📫 wojciech.dominiak.96@gmail.com 
 - https://wojciechdominiak.github.io/
@@ -20,19 +20,19 @@ Current tech stack
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
 |**HTML5**                         | ![done][done]     | ![done][done]          | ![done][done]    |
 |**CSS3**                          | ![done][done]     | ![done][done]          | ![done][done]    |
+|**BEM**                           | ![done][done]     | ![done][done]          |                  |
+|**Sass**                          | ![done][done]     | ![done][done]          |                  |
 |**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |
 |**ES6+**                          | ![done][done]     | ![done][done]          | ![done][done]    |
 |**TypeScript**                    | ![done][done]     | ![done][done]          |                  |
-|**BEM**                           | ![done][done]     | ![done][done]          |                  |
-|**Sass**                          | ![done][done]     | ![done][done]          |                  |
+|**React.js**                      | ![done][done]     |                        |                  |
+|**Vue.js 3.0**                    | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Vue Router**                    | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Pinia/Vuex 4.0**                | ![done][done]     | ![done][done]          | ![done][done]    |
 |**npm**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**npm scripts**                   | ![done][done]     |                        |                  |
 |**Webpack**                       | ![done][done]     | ![done][done]          |                  |
 |**Vite**                          | ![done][done]     | ![done][done]          |                  |
-|**Vue.js 3.0**                    | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Vue CLI**                       | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Vue Router**                    | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Pinia/Vuex 4.0**                | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**GitHub**                        | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Gitflow**                       | ![done][done]     | ![done][done]          | ![done][done]    |
