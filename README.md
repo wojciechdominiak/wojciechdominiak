@@ -12,7 +12,7 @@ programmer.
 - 📫 wojciech.dominiak.96@gmail.com 
 - https://wojciechdominiak.github.io/
 
-Current tech stack
+Current tech stack:
 
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 
@@ -36,4 +36,4 @@ Current tech stack
 |**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**GitHub**                        | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Gitflow**                       | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Python**                        | ![done][done]     | ![done][done]          |                  |
+|**Python**                        | ![done][done]     |                        |                  |
