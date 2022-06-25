@@ -21,7 +21,9 @@ Current tech stack:
 |**HTML5**                         | ![done][done]     | ![done][done]          | ![done][done]    |
 |**CSS3**                          | ![done][done]     | ![done][done]          | ![done][done]    |
 |**BEM**                           | ![done][done]     | ![done][done]          |                  |
-|**Sass**                          | ![done][done]     | ![done][done]          |                  |
+|**SASS**                          | ![done][done]     | ![done][done]          |                  |
+|**CSS modules**                   | ![done][done]     |                        |                  |
+|**styled-components**             | ![done][done]     |                        |                  |
 |**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |
 |**ES6+**                          | ![done][done]     | ![done][done]          | ![done][done]    |
 |**TypeScript**                    | ![done][done]     | ![done][done]          |                  |
