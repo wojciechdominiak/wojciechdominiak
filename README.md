@@ -24,8 +24,7 @@ Current tech stack:
 |**SASS**                          | ![done][done]     | ![done][done]          |                  |
 |**CSS modules**                   | ![done][done]     |                        |                  |
 |**styled-components**             | ![done][done]     |                        |                  |
-|**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |
-|**ES6+**                          | ![done][done]     | ![done][done]          | ![done][done]    |
+|**JavaScript (ES6+)**             | ![done][done]     | ![done][done]          | ![done][done]    |
 |**TypeScript**                    | ![done][done]     | ![done][done]          |                  |
 |**React.js**                      | ![done][done]     |                        |                  |
 |**Vue.js 3.0**                    | ![done][done]     | ![done][done]          | ![done][done]    |
