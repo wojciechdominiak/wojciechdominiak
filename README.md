@@ -30,6 +30,9 @@ Current tech stack:
 |**Vue.js 3.0**                    | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Vue Router**                    | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Pinia/Vuex 4.0**                | ![done][done]     | ![done][done]          | ![done][done]    |
+|**prettier**                      | ![done][done]     | ![done][done]          | ![done][done]    |
+|**ESlint**                        | ![done][done]     | ![done][done]          | ![done][done]    |
+|**BABEL**                         | ![done][done]     | ![done][done]          | ![done][done]    |
 |**npm**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**npm scripts**                   | ![done][done]     |                        |                  |
 |**Webpack**                       | ![done][done]     | ![done][done]          |                  |
