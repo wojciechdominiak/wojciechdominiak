@@ -26,7 +26,7 @@ Current tech stack:
 |**styled-components**             | ![done][done]     |                        |                  |
 |**JavaScript (ES6+)**             | ![done][done]     | ![done][done]          | ![done][done]    |
 |**TypeScript**                    | ![done][done]     | ![done][done]          |                  |
-|**React.js**                      | ![done][done]     |                        |                  |
+|**React.js**                      | ![done][done]     | ![done][done]          |                  |
 |**Vue.js 3.0**                    | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Vue Router**                    | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Pinia/Vuex 4.0**                | ![done][done]     | ![done][done]          | ![done][done]    |
