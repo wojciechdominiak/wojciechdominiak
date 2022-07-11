@@ -20,24 +20,26 @@ Current tech stack:
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
 |**HTML5**                         | ![done][done]     | ![done][done]          | ![done][done]    |
 |**CSS3**                          | ![done][done]     | ![done][done]          | ![done][done]    |
-|**BEM**                           | ![done][done]     | ![done][done]          |                  |
+|**BEM**                           | ![done][done]     |                        |                  |
 |**SASS**                          | ![done][done]     | ![done][done]          |                  |
-|**CSS modules**                   | ![done][done]     |                        |                  |
+|**CSS modules**                   | ![done][done]     | ![done][done]          |                  |
 |**styled-components**             | ![done][done]     |                        |                  |
 |**JavaScript (ES6+)**             | ![done][done]     | ![done][done]          | ![done][done]    |
 |**TypeScript**                    | ![done][done]     | ![done][done]          |                  |
-|**React.js**                      | ![done][done]     | ![done][done]          |                  |
-|**Vue.js 3.0**                    | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Vue Router**                    | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Pinia/Vuex 4.0**                | ![done][done]     | ![done][done]          | ![done][done]    |
+|**React.js with Hooks**           | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Context API**                   | ![done][done]     | ![done][done]          | ![done][done]    |
+|**React Router**                  | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Redux**                         | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Vue.js 3.0**                    | ![done][done]     | ![done][done]          |                  |
+|**Vue Router**                    | ![done][done]     | ![done][done]          |                  |
+|**Pinia/Vuex 4.0**                | ![done][done]     | ![done][done]          |                  |
 |**prettier**                      | ![done][done]     | ![done][done]          | ![done][done]    |
 |**ESlint**                        | ![done][done]     | ![done][done]          | ![done][done]    |
 |**BABEL**                         | ![done][done]     | ![done][done]          | ![done][done]    |
 |**npm**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**npm scripts**                   | ![done][done]     |                        |                  |
 |**Webpack**                       | ![done][done]     | ![done][done]          |                  |
-|**Vite**                          | ![done][done]     | ![done][done]          |                  |
-|**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**GitHub**                        | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Vite**                          | ![done][done]     |                        |                  |
+|**Git/GitHub**                    | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Gitflow**                       | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Python**                        | ![done][done]     |                        |                  |
