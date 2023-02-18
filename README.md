@@ -7,10 +7,9 @@ e.g. logic, analysis or algebra during my studies. I’ve been working creativel
 customers for two years. Currently I'm looking for a commercial job as a
 programmer.
 
-- 🌱 I’m currently learning: React.js
+- 🌱 I’m currently learning: Next.js
 
 - 📫 wojciech.dominiak.96@gmail.com 
-- https://wojciechdominiak.github.io/
 
 Current tech stack:
 
@@ -29,10 +28,6 @@ Current tech stack:
 |**React.js with Hooks**           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Context API**                   | ![done][done]     | ![done][done]          | ![done][done]    |
 |**React Router**                  | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Redux**                         | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Vue.js 3.0**                    | ![done][done]     | ![done][done]          |                  |
-|**Vue Router**                    | ![done][done]     | ![done][done]          |                  |
-|**Pinia/Vuex 4.0**                | ![done][done]     | ![done][done]          |                  |
 |**prettier**                      | ![done][done]     | ![done][done]          | ![done][done]    |
 |**ESlint**                        | ![done][done]     | ![done][done]          | ![done][done]    |
 |**BABEL**                         | ![done][done]     | ![done][done]          | ![done][done]    |
@@ -42,4 +37,3 @@ Current tech stack:
 |**Vite**                          | ![done][done]     |                        |                  |
 |**Git/GitHub**                    | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Gitflow**                       | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Python**                        | ![done][done]     |                        |                  |
