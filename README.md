@@ -20,12 +20,13 @@ Current tech stack:
 |**HTML5**                         | ![done][done]     | ![done][done]          | ![done][done]    |
 |**CSS3**                          | ![done][done]     | ![done][done]          | ![done][done]    |
 |**BEM**                           | ![done][done]     |                        |                  |
-|**SASS**                          | ![done][done]     | ![done][done]          |                  |
+|**Sass**                          | ![done][done]     | ![done][done]          |                  |
 |**CSS modules**                   | ![done][done]     | ![done][done]          |                  |
 |**styled-components**             | ![done][done]     |                        |                  |
 |**JavaScript (ES6+)**             | ![done][done]     | ![done][done]          | ![done][done]    |
-|**TypeScript**                    | ![done][done]     | ![done][done]          |                  |
+|**TypeScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |
 |**React.js with Hooks**           | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Next.js**                       | ![done][done]     |                        |                  |
 |**Context API**                   | ![done][done]     | ![done][done]          | ![done][done]    |
 |**React Router**                  | ![done][done]     | ![done][done]          | ![done][done]    |
 |**prettier**                      | ![done][done]     | ![done][done]          | ![done][done]    |
@@ -35,5 +36,5 @@ Current tech stack:
 |**npm scripts**                   | ![done][done]     |                        |                  |
 |**Webpack**                       | ![done][done]     | ![done][done]          |                  |
 |**Vite**                          | ![done][done]     |                        |                  |
-|**Git/GitHub**                    | ![done][done]     | ![done][done]          | ![done][done]    |
+|**Git/GitHub/Gitlab**             | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Gitflow**                       | ![done][done]     | ![done][done]          | ![done][done]    |
